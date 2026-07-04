@@ -7,7 +7,7 @@ The official website for **FUNMER 2026**, Scenic Hills' faith-based summer skill
 - **Time:** 9:00 AM – 3:00 PM (drop-off 8:30–9:00, pick-up 3:00–3:15)
 - **Ages:** 10–18
 - **Register:** https://scenichills.churchcenter.com/registrations/signups/3684641
-- **Contact:** Angel Laurencio · (908) 914-6082
+- **Contact:** info@funmer.org
 
 ---
 
