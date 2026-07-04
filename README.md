@@ -62,6 +62,15 @@ Colors, typography, and layout follow the FUNMER 2026 brand system
 Fonts load from Google Fonts, so an internet connection is needed to display
 the exact typefaces.
 
+## License
+
+The source code for this website is licensed under the MIT License.
+
+FUNMER branding, logos, photos, videos, graphics, written content, Bible study
+materials, event materials, and promotional designs are not included in the MIT
+License. These materials are protected and may not be copied, modified, or reused
+without written permission from FUNMER / Scenic Hills Seventh-day Adventist Church.
+
 ---
 
 *Scenic Hills · Fun Summer Skills Camp · A joyful Christian environment for
